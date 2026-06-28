@@ -1,16 +1,25 @@
-## Hi there 👋
-I'm Vaibhav
-<!--
-**VaibhavSheth/VaibhavSheth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vaibhav Sheth 👋
 
-Here are some ideas to get you started:
+**Senior Software Engineer** | Java · Spring Boot · Kafka · Microservices · Fintech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Bengaluru, India | 💼 Comviva Technologies
+
+---
+
+## 🚀 What I Build
+- Payment transaction systems and mobile wallet platforms
+- Real-time event-driven microservices with Apache Kafka
+- REST APIs and API gateway integrations for fintech/telecom
+
+## 🛠️ Tech Stack
+**Backend:** Java, Spring Boot, Kafka, KSQL, Resilience4j  
+**Databases:** Oracle SQL, PL/SQL, PostgreSQL, Redis  
+**Frontend:** React.js, Next.js, Node.js  
+**DevOps:** Docker, Jenkins, CI/CD  
+
+## 🔥 Featured Projects
+- **[Real-Time Fraud Detection Microservice](#)** — Spring Boot · Kafka · Redis · Resilience4j
+- **[GitHub Repo Code Visualizer](#)** — Chrome Extension for codebase visualization
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vaibhav-sheth-b1959a199/)
